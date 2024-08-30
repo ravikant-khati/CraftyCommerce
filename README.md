@@ -30,4 +30,4 @@ CraftyCommerce is a web-based e-commerce platform designed to provide users with
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/CraftyCommerce.git
+   git clone https://github.com/ravikant-khati/CraftyCommerce.git
